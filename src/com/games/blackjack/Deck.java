@@ -1,5 +1,5 @@
 package com.games.blackjack;
 
-class Player {
-
+class Deck {
+ // merge party?
 }
